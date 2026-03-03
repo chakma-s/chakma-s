@@ -62,5 +62,5 @@
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=cshanto&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=chakma-s&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
