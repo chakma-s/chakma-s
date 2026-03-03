@@ -52,12 +52,12 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cshanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cshanto&theme=dark&hide_border=false&v=1" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chakma-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakma-s&theme=dark&hide_border=false&v=1" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cshanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakma-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1" alt="Top Languages" width="60%" />
 </div>
 
 <div align="center">
