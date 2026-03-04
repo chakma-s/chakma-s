@@ -10,7 +10,7 @@
 - 🔭 I’m a CS/IT graduate with 4 years of experience as a Software Engineer in the automotive industry.
 - 🌱 I’m currently expanding my skill set in **Data Engineering, Data Science, and Machine Learning**.
 - 🛠️ I've recently been building robust billing/inventory systems and deploying web applications.
-- 🎓 Currently preparing to pursue a Master's degree abroad to further my technical expertise.
+- 🎓 -
 - ⚡ Fun fact: When I'm not reachable, I'm probably analyzing Formula 1 strategies or playing a few rounds of PUBG!
 
 ---
